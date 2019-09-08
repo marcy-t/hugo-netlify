@@ -1,10 +1,10 @@
 enable : true
 heading : Our
-headingSpan : Team
+headingSpan : Team Staff
 teamMember :
   - image : images/team/team-1.jpg
-    name : Abul Mal Muhit
-    designation : CEO/Founder
+    name : 飯島 飯島
+    designation : Coach/IJIMA
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
     socialIcon :
       - icon : tf-ion-social-facebook
@@ -17,8 +17,8 @@ teamMember :
         url : "#"
       
   - image : images/team/team-2.jpg
-    name : Frank Miller
-    designation : Manager
+    name : 川田 聖仁
+    designation : Coach/Kawada Kawada
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
     socialIcon :
       - icon : tf-ion-social-facebook
@@ -30,10 +30,10 @@ teamMember :
       - icon : tf-ion-social-dribbble-outline
         url : "#"
       
-  - image : images/team/team-3.jpg
-    name : Michael Jonson
-    designation : Web Developer
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+  - image : images/team/author.jpg
+    name : Comming Soon...
+    designation : 
+    description : 
     socialIcon :
       - icon : tf-ion-social-facebook
         url : "#"
@@ -44,10 +44,10 @@ teamMember :
       - icon : tf-ion-social-dribbble-outline
         url : "#"
       
-  - image : images/team/team-4.jpg
-    name : Mo. Kha. Alamgir
-    designation : SEO Specialist
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+  - image : images/team/author.jpg
+    name : Comming Soon...
+    designation : 
+    description : 
     socialIcon :
       - icon : tf-ion-social-facebook
         url : "#"
