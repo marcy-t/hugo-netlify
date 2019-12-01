@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-title = "Meghna"
+title = "Gauss Football School"
 theme = "meghna-hugo"
 summaryLength = 10
 
@@ -13,7 +13,7 @@ summaryLength = 10
 # Menu
 [menu]
     [[menu.nav]]
-    name = "About Us"
+    name = "About Gauss"
     URL = "about"
     weight = 2
 
@@ -64,10 +64,10 @@ custom_css = ["css/custom.css"]
     enable = true
     bgImage = "images/slider/hero-area.jpg"
     icon = "tf-ion-play"
-    heading = "Experience the new reality"
-    content= "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+    heading = "Gauss Football School"
+    content = "楽しい、新感覚 トータルフットボール"
     btn = true
-    btnText="Explore Us"
+    btnText="About Gauss"
     btnURL="#services"
 
     # call to action

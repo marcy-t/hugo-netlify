@@ -1,13 +1,17 @@
 enable : true
 image : images/about/about-business-man.jpg
-title : We’re A Digital Design Agency.
-description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
-description2 : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
-aboutItem : 
+title : フットサルが面白い
+description : 狭いスペースの中で攻守が入り乱れるためより早い展開を楽しめます。
+description2 : また、規定人数が1チーム5人なので一人一人のボールに触る回数が多いため、足元の技術が身に付きやすいです。
+aboutItem :       
   - icon : tf-circle-compass
-    title : SEO Optimized
-    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    title : 早いプレースピード
+    content : フットサルはコートが狭く相手選手のプレッシャーも早いため「早いプレースピード」「正確な技術」「ボールを受ける技術」が特に求められます。
     
   - icon : tf-hotairballoon
-    title : Easy Customization
+    title : 正確な技術
+    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+
+  - icon : tf-hotairballoon
+    title : ボールを受ける技術
     content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe

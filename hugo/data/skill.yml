@@ -1,26 +1,24 @@
 enable : true
-heading : Our
+heading : Play
 headingSpan : Skills
-title : We’ve skilled in wide range of web and Other digital market tools.
-content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
+title : Futsal Skills~フットサルが面白い
+content : 狭いスペースの中で攻守が入り乱れるためより早い展開を楽しめます。
+content1 : また、規定人数が1チーム5人なので一人一人のボールに触る回数が多いため、足元の技術が身に付きやすいです。
+content2 : フットサルはコートが狭く相手選手のプレッシャーも早いため「早いプレースピード」「正確な技術」「ボールを受ける技術」が特に求められます。
+content3 : 今日のサッカーではバイタルエリアと呼ばれる最もチャンスになりやすいエリアでのプレーに類似しているため、本格的なフットサルのスキルを身に付けることで得点シーンに絡めたり、相手のプレッシャーがかかる場面でも落ち着いてボールを裁くことができます。
+content4: このような場面でもしっかりと技術を発揮できるよう本格的にフットサルの指導を行います。
+
 image : images/about/company-growth.png
 skillItem :
   - itemNumber : 01-
-    itemName :  Business Development
+    itemName :  早いプレースピード
     itemPercent : 90%
     
   - itemNumber : 02-
-    itemName :  Analysis
+    itemName :  正確な技術
     itemPercent : 70%
     
   - itemNumber : 03-
-    itemName :  Design
+    itemName :  ボールを受ける技術
     itemPercent : 80%
     
-  - itemNumber : 04-
-    itemName :  IOS Development
-    itemPercent : 95%
-    
-  - itemNumber : 05-
-    itemName :  Andriod Development
-    itemPercent : 75%
