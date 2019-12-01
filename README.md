@@ -46,7 +46,3 @@ Netlify build commands and public directory are set in `netlify.toml` like a bel
 publish = "./hugo/public"
 command = "hugo -s ./hugo"
 ```
-
-# Author
-
-[Hoda](https://hodalog.com)
